@@ -1,0 +1,5 @@
+e101,bill gates,redmond, 70000,10
+e102,ajit jog,thane, 50000,10
+e103,sachin tendulkar,dadar, 40000,20
+e104,sunil gavaskar,, 60000,20
+e105,zakir hussain,worli, 110000,10
