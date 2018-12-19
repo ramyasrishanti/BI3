@@ -1,0 +1,7 @@
+1.Complete all Labs till Lab 9
+2. Day2_Walkthrough_1,Day2_Walkthrough_2,Day2_Walkthrough_3,Day2_Walkthrough_4,Day2_Walkthrough_5,Package Configuration Steps
+SSIS_Day2_Checkpoint
+Read real time scenario and 
+Read SSIS Transformations in Lab 6_SSIS folder
+RnD:
+Perform Multicast Take SQL Server Table use olde db connection transform with Multicast and the destination can be ole db destination or excel or flat file.
